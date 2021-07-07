@@ -1,2 +1,2 @@
 # pro-mern-stack-2
-# school book "Pro MERN Stack" by Vasan Subramanian
+# school book exercises from "Pro MERN Stack" by Vasan Subramanian
